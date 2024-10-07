@@ -13,7 +13,6 @@ fun main() {
     var b = 15;
 }
 
-
 fun sayHello() {
     println("Bonjour tout le monde !")
 }
