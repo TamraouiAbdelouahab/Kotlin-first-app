@@ -34,6 +34,5 @@ fun calculateRectangleArea(length: Double, width: Double): Double {
 
 fun findMax(a: Int, b: Int): Int {
     return if (a > b) a else b;
-    // return (a > b) ? a : b
 
 }
